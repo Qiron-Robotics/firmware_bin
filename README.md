@@ -4,7 +4,7 @@
 Binários para atualização do firmware Beo v2.x
 
 
-```
+```sh
 #!/bin/bash
 
 set -e
